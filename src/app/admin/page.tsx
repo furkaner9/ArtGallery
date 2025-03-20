@@ -2,6 +2,7 @@
 
 import ImageUpload from "../../components/ImageUpload";
 import ImageList from "../../components/ImageList";
+import GalleryData from "../../components/GalleryData";
 
 const Admin = () => {
   return (
@@ -9,6 +10,7 @@ const Admin = () => {
       <h1 className="text-4xl font-bold text-center mb-8">Admin Paneli</h1>
       <ImageUpload />
       <ImageList />
+      <GalleryData />
     </main>
   );
 };

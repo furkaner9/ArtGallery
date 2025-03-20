@@ -18,7 +18,7 @@ const Hero = () => {
         <p className="text-lg md:text-xl mb-8">
           En güzel resimlerin keyfini çıkarın.
         </p>
-        <button className="bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-full font-semibold">
+        <button className="bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-full font-semibold text-white">
           <Link href="/galeri">Galeriye Git</Link>
         </button>
       </div>
