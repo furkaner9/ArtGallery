@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "src": "/image/hero1.webp",
+    "title": "Manzara 1",
+    "tags": ["manzara", "doğa"]
+  },
+  {
+    "id": 2,
+    "src": "/image/hero2.jpeg",
+    "title": "Sanat Eseri 1",
+    "tags": ["sanat", "soyut"]
+  },
+  {
+    "id": 3,
+    "src": "/image/hero3.jpeg",
+    "title": "Şehir Manzarası",
+    "tags": ["şehir", "manzara"]
+  },
+  {
+    "id": 4,
+    "src": "/image/hero4.jpeg",
+    "title": "Soyut Çalışma",
+    "tags": ["sanat", "soyut"]
+  },
+  {
+    "id": 5,
+    "src": "/image/hero5.jpeg",
+    "title": "Doğa Detayı",
+    "tags": ["doğa", "detay"]
+  },
+  {
+    "id": 6,
+    "src": "/image/hero6.jpg",
+    "title": "Mimari",
+    "tags": ["mimari", "şehir"]
+  }
+]
